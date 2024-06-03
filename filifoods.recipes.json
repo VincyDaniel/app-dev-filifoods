@@ -1,0 +1,280 @@
+[{
+  "_id": {
+    "$oid": "662f95230fc4fc64b1046a63"
+  },
+  "name": "Sarciadong Pechay",
+  "diet": "1. Heat oil in a pan. Sauté garlic, onion, and tomatoes.\n2. Add the pechay. Sauté for 20 seconds and then pour water. Let it boil.\n3. Gently pour the beaten egg around the pan. Stir and continue cooking until the eggs start to solidify.\n4. Season with fish sauce and ground black pepper. Serve with rice. \n5. Serve and Enjoy",
+  "cuisine": "Filipino",
+  "tags": [
+    "BabyBokChoy",
+    "Eggs",
+    "Tomatoes"
+  ],
+  "ingredients": [
+    "3 bunches pechay",
+    "2 eggs beaten",
+    "2 tomatoes",
+    "5 cloves garlic minced",
+    "1 onion minced",
+    "1 cup water",
+    "2 tablespoons cooking oil",
+    "Fish sauce and ground black pepper"
+  ],
+  "introduction": "What’s the first thing you think of cooking when you are in a rush? For me, Sarciadong Pechay is one of the recipes that easily comes to mind because all you really need to do is combine a bunch of commonly used ingredients in one pan. \n\nThat’s really all there is to it! That’s why I can easily recommend this to people who are still figuring out how to move around the kitchen. \n\nNow if you’ve had scrambled eggs before, as most of us have, this is a dish that is somewhat similar, but definitely, definitely more flavorful. Like every sarciado dish, this has a great sauce made of tomatoes and eggs. We mix that with some refreshing pechay for a truly tasty dish. One of the people I spoke to about Sarciadong Pechay described it as one of their favorites because it is able to highlight the flavors of each of its components perfectly.",
+  "imageUrl": "https://panlasangpinoy.com/wp-content/uploads/2024/04/Top-view-of-sarciadong-pechay-750x750.jpg\n",
+  "servingSize": "2 Plates",
+  "calories": 271,
+  "totalFat": 14,
+  "saturatedFat": 2,
+  "cholesterol": 109,
+  "sodium": 598,
+  "totalCarbo": 27,
+  "fiber": 10,
+  "sugar": 14,
+  "protein": 18,
+  "_class": "com.filifoods.backend.model.Recipe"
+},
+{
+  "_id": {
+    "$oid": "662f9dd00fc4fc64b1046a64"
+  },
+  "name": "Stir Fry Eggplant",
+  "diet": "1. Combine 2 cups water, 1 tablespoon salt, and 2 tablespoons vinegar in a large mixing bowl. \n2. Stir and then add the sliced eggplants. Soak it for 20 minutes. \n3. Make the sauce by combining all the sauce ingredients as listed above the ingredient section in a bowl. \n4. Mix well and then set aside. \n5. Stir and continue cooking using medium heat until the sauce thickens. \n6. Serve and Enjoy!",
+  "cuisine": "Filipino",
+  "tags": [
+    "StirFry",
+    "Eggplant"
+  ],
+  "ingredients": [
+    "4 pieces Chinese eggplant sliced",
+    "4 ounces ground pork",
+    "2 tablespoons cornstarch",
+    "2 tablespoons white vinegar",
+    "1/4 cup green onions chopped",
+    "1 tablespoon salt",
+    "2 cups water",
+    "1 tablespoon cooking oil"
+  ],
+  "introduction": "If this is the first time you are encountering this dish, you are in for a delightful meal. The first bite will give you eggplant that’s been perfectly sautéed with ground pork and a somewhat spicy and savory sauce. This recipe is a simpler version of my eggplant stir fry with green beans.\n\nIncredibly irresistible because of its rich taste, Stir Fry Eggplant is definitely the way to go should you want a nutritious and tasty dish to serve for lunch or dinner! Come and learn about the various seasonings and spices you will need to create this.",
+  "imageUrl": "https://panlasangpinoy.com/wp-content/uploads/2024/02/chinese-eggplant-730x487.jpg",
+  "servingSize": "3 Plates",
+  "calories": 564,
+  "totalFat": 38,
+  "saturatedFat": 10,
+  "cholesterol": 82,
+  "sodium": 8992,
+  "totalCarbo": 30,
+  "fiber": 2,
+  "sugar": 6,
+  "protein": 23,
+  "_class": "com.filifoods.backend.model.Recipe"
+},
+{
+  "_id": {
+    "$oid": "662f9fc70fc4fc64b1046a65"
+  },
+  "name": "Eggplant With Ground Pork",
+  "diet": "1. Heat 3 tablespoons of cooking oil in a pan. Fry both sides of the sliced eggplants until it softens. Transfer the eggplants on a clean plate. Set aside. \n2. Add the remaining cooking oil and sesame oil. Saute the onion, garlic, and ginger. \n3. Add the ground pork once the onion softens. Saute it until the color turns light brown.\n4. Add soy sauce, oyster sauce, sugar, and water. Continue cooking until the liquid evaporates.\n5. Add the bell pepper and then put the eggplants back into the pan. Stir fry for 3 minutes. \n6. Season with salt and ground black pepper. \n7. Serve hot over rice. Share and enjoy!\n",
+  "cuisine": "Filipino",
+  "tags": [
+    "Eggplant",
+    "Pork"
+  ],
+  "ingredients": [
+    "2 Chinese eggplants sliced",
+    "4 ounces ground pork",
+    "1 red bell pepper",
+    "1 onion minced",
+    "3 cloves garlic minced",
+    "1 thumb ginger",
+    "1/2 teaspoon Sesame oil",
+    "1 tablespoon soy sauce",
+    "1 teaspoon brown sugar",
+    "1 red bell pepper"
+  ],
+  "introduction": "This recipe is a perfect go-to when you are craving something savory and healthy, but also involves a simple cooking process. We will mostly just be sautéing the likes of Chinese eggplant, ground pork and oyster sauce together. Just be warned that this has a pretty long list of ingredients. But each of them play an integral part in building the unique and delicious texture of the dish. \n\nBut other than taste, eggplants are also great to add to your meals due to how rich they are in vitamins and minerals. You can also get an abundance of antioxidants from this vegetable. And so here are more recipes you may also want to check out that include the “talong!”",
+  "imageUrl": "https://panlasangpinoy.com/wp-content/uploads/2023/08/talong-with-giniling-730x1144.jpg",
+  "servingSize": "5 Plates",
+  "calories": 1340,
+  "totalFat": 99,
+  "saturatedFat": 15,
+  "cholesterol": 82,
+  "sodium": 2098,
+  "totalCarbo": 83,
+  "fiber": 36,
+  "sugar": 52,
+  "protein": 35,
+  "_class": "com.filifoods.backend.model.Recipe"
+},
+{
+  "_id": {
+    "$oid": "6630ae12c5ae7c736ae1abe2"
+  },
+  "name": "Siopao Asado",
+  "diet": "- Cook the Asado filling by heating the shortening in a pan\n- Saute the garlic and onions\n- Put-in the pork and cook until the color of the outer part turns light brown\n- Add the soy sauce, oyster sauce, hoisin sauce, and sugar then mix well. \n- Simmer for 5 minutes.",
+  "cuisine": "Filipino",
+  "tags": [
+    "Siopao",
+    "Asado"
+  ],
+  "ingredients": [
+    "2 cups water warm",
+    "2 and 1/2 tablespoons yeast mixture",
+    "1/2 cup sugar",
+    "1 pouch dry yeast"
+  ],
+  "introduction": "Siopao or hot buns is a type of dumpling with a sweet pork filling. It can be consumed anytime of the day. I personally love to have this for brunch along with a bowl of hot beef mami.",
+  "imageUrl": "https://panlasangpinoy.com/wp-content/uploads/2009/08/Siopao.jpg",
+  "servingSize": "1 plate",
+  "calories": 786,
+  "totalFat": 34,
+  "saturatedFat": 11,
+  "cholesterol": 81,
+  "sodium": 792,
+  "totalCarbo": 88,
+  "fiber": 2,
+  "sugar": 23,
+  "protein": 28,
+  "_class": "com.filifoods.backend.model.Recipe"
+},
+{
+  "_id": {
+    "$oid": "6630b00cc5ae7c736ae1abe3"
+  },
+  "name": "Siomai (Pork And Shrimp)",
+  "diet": "- Mixing some of the filling ingredients together. \n- Seasoning the filling. \n- Wrapping the siomai. \n- Preparing to steam the siomai. \n- Steaming the siomai. \n- Serve siomai.",
+  "cuisine": "Chinese",
+  "tags": [
+    "Siomai",
+    "Hot",
+    "Merienda"
+  ],
+  "ingredients": [
+    "3 lbs. ground pork",
+    "1 cup shrimp minced",
+    "12 ml. Knorr Liquid Seasoning",
+    "1/2 cup onion minced",
+    "1/2 cup carrot minced"
+  ],
+  "introduction": "This delicious Chinese dumpling is something you can easily find in the streets of Manila, and many other places in the Philippines. This savory treat makes it so irresistible to Filipino's around the Philippines.",
+  "imageUrl": "https://panlasangpinoy.com/wp-content/uploads/2024/02/siomai.jpg",
+  "servingSize": "3 plates",
+  "calories": 4251,
+  "totalFat": 303,
+  "saturatedFat": 110,
+  "cholesterol": 1148,
+  "sodium": 5837,
+  "totalCarbo": 120,
+  "fiber": 9,
+  "sugar": 25,
+  "protein": 250,
+  "_class": "com.filifoods.backend.model.Recipe"
+},
+{
+  "_id": {
+    "$oid": "6630b30fc5ae7c736ae1abe4"
+  },
+  "name": "Lechon Sinigang",
+  "diet": "- Preparing the garlic, onion, and tomato.\n- Integrating Lechon.\n- Boosting the sinigang's flavor.\n- Cooking the veggies.\n- Adding the last seasonings.",
+  "cuisine": "Filipino",
+  "tags": [
+    "Hot",
+    "",
+    "Main Cuisine",
+    " Sinigang"
+  ],
+  "ingredients": [
+    "2 lbs. lechon cut into serving pieces",
+    "22 grams Knorr Sinigang",
+    "1 piece daikon radish",
+    "15 pieces string beans",
+    "2 pieces eggplants "
+  ],
+  "introduction": "You’ve got all the usual sinigang components in this dish. Vegetables like kangkong, okra, tomatoes, eggplants and more nutritious ingredients make a pleasant appearance in this dish.",
+  "imageUrl": "https://panlasangpinoy.com/wp-content/uploads/2024/01/lechon-sinigang-1024x683.jpg",
+  "servingSize": "4 plates",
+  "calories": 9109,
+  "totalFat": 953,
+  "saturatedFat": 360,
+  "cholesterol": 862,
+  "sodium": 304,
+  "totalCarbo": 124,
+  "fiber": 48,
+  "sugar": 58,
+  "protein": 32,
+  "_class": "com.filifoods.backend.model.Recipe"
+},
+{
+  "_id": {
+    "$oid": "6630b69ec5ae7c736ae1abe5"
+  },
+  "name": "Pork Binagoongan Sa Gata",
+  "diet": "- Heat a pan and then sear the pork belly. Remove the belly from the pan and set it aside.\n- Add 2 tablespoons of cooking oil in the same pan.\n- Heat remaining oil in a pan.\n- Add the seared pork back once onion softens.\n- Pour water and let it boil.\n- Combine Knorr and add eggplants, peppers, and sugar.\n- Season with fish sauce and enjoy!",
+  "cuisine": "Filipino",
+  "tags": [
+    "Hot",
+    "Main Cuisine",
+    "Pork",
+    "Gata"
+  ],
+  "ingredients": [
+    "3 lbs. pork belly cubed",
+    "40 grams Knorr Ginataang Gulay",
+    "4 tablespoons shrimp paste",
+    "3 cups water",
+    "1 eggplant sliced",
+    "1 tomato chopped",
+    "1 onion minced",
+    "5 cloves garlic",
+    "2 tablespoons white vinegar",
+    "1 teaspoon sugar",
+    "3 long green pepper",
+    "5 tablespoons cooking oil",
+    "Fish sauce",
+    "Ground Black Pepper"
+  ],
+  "introduction": "With the warm, nutty sensations of coconut milk, pork binagoongan sa gata may be the thing to convert your bagoong hater friends and family! The creaminess of your gata is able to cut through the umami seafood.",
+  "imageUrl": "https://panlasangpinoy.com/wp-content/uploads/2023/06/pork-binagoongan-sa-gata-1024x1536.jpg",
+  "servingSize": "4 plates",
+  "calories": 1365,
+  "totalFat": 133,
+  "saturatedFat": 45,
+  "cholesterol": 277,
+  "sodium": 436,
+  "totalCarbo": 13,
+  "fiber": 6,
+  "sugar": 5,
+  "protein": 31,
+  "_class": "com.filifoods.backend.model.Recipe"
+},
+{
+  "_id": {
+    "$oid": "6630c289c5ae7c736ae1abe6"
+  },
+  "name": "Pork Chop Steak",
+  "diet": "Gagag",
+  "cuisine": "Filipino",
+  "tags": [
+    "Hot",
+    "Main Cuisine"
+  ],
+  "ingredients": [
+    "Pork",
+    "Onions",
+    "Garlic",
+    "Tomato"
+  ],
+  "introduction": "Pork Steak Yumy",
+  "imageUrl": "https://panlasangpinoy.com/wp-content/uploads/2024/02/pork-bistek-1.jpg",
+  "servingSize": "4 plates",
+  "calories": 5,
+  "totalFat": 5,
+  "saturatedFat": 3,
+  "cholesterol": 43,
+  "sodium": 64,
+  "totalCarbo": 532,
+  "fiber": 545,
+  "sugar": 64,
+  "protein": 64,
+  "_class": "com.filifoods.backend.model.Recipe"
+}]
